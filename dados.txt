@@ -1,12 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Karina;
+-Profissão: Estudante;
+-Cidade: São Paulo;
+-O que faz nas horas vaga: Jogo Animal Crossing New Horizons
+-Feedback sobre o curso Qualidade de Software: Novos desafios e aprendizados;
+-Feedback sobre a plataforma de estudo da EBAC: Ótimo suporte!;
 
-Obrigado!!!
+Obrigada!!!
+:)
 
 
